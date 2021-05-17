@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+}
+
+.box-main{
+    margin: auto;
+    width: 100%;
+    height: 99vh;
+}
+
+.box-top{
+    background: grey;
+    width: 60%;
+    height: 15vh;
+    margin: auto;
+    margin-top: 0.2%;
+}
+
+.box-bottom{
+    background: grey;
+    width: 60%;
+    height: 15vh;
+    margin: auto;
+}
+
+.box{
+    background: grey;
+    width: 14.32%;
+    height: 30vh;
+}
+
+.upper{
+    display: inline-block;
+    margin-top: 1.3%;
+    margin-bottom: 0.5%;
+}
+
+.lower{
+    display: inline-block;
+    margin-bottom: 1.3%;
+    margin-top: 0.5%;
+}
+
+.first{
+    margin-top: 5px;
+    margin-left: 20%;
+}
+
+.fifth{
+    margin-top: 5px;
+    margin-left: 20%;
+}
+
+.second{
+    margin-left: 8px;
+    margin-right: 4px;
+}
+
+.third{
+    margin-right: 8px;
+    margin-left: 4px;
+}
+
+.sixth{
+    margin-left: 8px;
+    margin-right: 4px;
+}
+
+.seventh{
+    margin-right: 8px;
+    margin-left: 4px;
+}
